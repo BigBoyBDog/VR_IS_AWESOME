@@ -63,13 +63,16 @@
     <Compile Include="Assets\ButtonInputController.cs" />
     <Compile Include="Assets\ForceToggle.cs" />
     <Compile Include="Assets\ResetAfterDelay.cs" />
+    <Compile Include="Assets\Shootable.cs" />
     <Compile Include="Assets\BalloonController.cs" />
+    <Compile Include="Assets\RespawnCrates.cs" />
     <Compile Include="Assets\KeepUpright.cs" />
     <Compile Include="Assets\RandomPosition.cs" />
     <Compile Include="Assets\GunScript.cs" />
     <Compile Include="Assets\Poppable.cs" />
     <Compile Include="Assets\KillTarget.cs" />
     <Compile Include="Assets\GlideLocomotion.cs" />
+    <Compile Include="Assets\SphereScore.cs" />
     <Compile Include="Assets\CursorPositioner.cs" />
     <Compile Include="Assets\LookMoveTo.cs" />
     <Compile Include="Assets\AssignCanvasEventCamera.cs" />

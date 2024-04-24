@@ -402,6 +402,9 @@
 "Assets/Poppable.cs"
 "Assets/RandomPosition.cs"
 "Assets/ResetAfterDelay.cs"
+"Assets/RespawnCrates.cs"
+"Assets/Shootable.cs"
+"Assets/SphereScore.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
