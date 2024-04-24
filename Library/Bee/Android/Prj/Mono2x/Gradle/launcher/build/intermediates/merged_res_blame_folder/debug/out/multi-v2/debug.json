@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\brand\\Downloads\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\merged_res\\debug\\values-v21_values-v21.arsc.flat",
+            "outputFile": "D:\\Unity Projects\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\merged_res\\debug\\values-v21_values-v21.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\brand\\Downloads\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\debug\\values-v21\\values-v21.xml",
+                    "source": "D:\\Unity Projects\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\debug\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -17,10 +17,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\brand\\Downloads\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\merged_res\\debug\\values-v30_values-v30.arsc.flat",
+            "outputFile": "D:\\Unity Projects\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\merged_res\\debug\\values-v30_values-v30.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\brand\\Downloads\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\debug\\values-v30\\values-v30.xml",
+                    "source": "D:\\Unity Projects\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\debug\\values-v30\\values-v30.xml",
                     "from": {
                         "startLines": "2,3,4,5,6",
                         "startColumns": "4,4,4,4,4",
@@ -32,43 +32,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\brand\\Downloads\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\merged_res\\debug\\values-v28_values-v28.arsc.flat",
+            "outputFile": "D:\\Unity Projects\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\merged_res\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\brand\\Downloads\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\debug\\values-v28\\values-v28.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "8",
-                        "endOffsets": "229"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\brand\\Downloads\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\merged_res\\debug\\values_values.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\brand\\Downloads\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "2,2",
-                        "startOffsets": "55,105",
-                        "endColumns": "48,65",
-                        "endOffsets": "101,168"
-                    },
-                    "to": {
-                        "startLines": "8,9",
-                        "startColumns": "4,4",
-                        "startOffsets": "356,407",
-                        "endColumns": "50,67",
-                        "endOffsets": "402,470"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\brand\\Downloads\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "source": "D:\\Unity Projects\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -84,6 +51,39 @@
                         "endLines": "2,3,4,5,6,7,11,14,18",
                         "endColumns": "45,56,55,48,45,46,8,8,8",
                         "endOffsets": "96,153,209,258,304,351,570,708,935"
+                    }
+                },
+                {
+                    "source": "D:\\Unity Projects\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,105",
+                        "endColumns": "48,65",
+                        "endOffsets": "101,168"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "356,407",
+                        "endColumns": "50,67",
+                        "endOffsets": "402,470"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Unity Projects\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\merged_res\\debug\\values-v28_values-v28.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Unity Projects\\VR_IS_AWESOME\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\debug\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "8",
+                        "endOffsets": "229"
                     }
                 }
             ]

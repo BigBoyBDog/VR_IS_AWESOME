@@ -6,183 +6,183 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+8-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+9-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
 10
 11    <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
-11-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-77
-11-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:24-74
+11-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-77
+11-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:24-74
 12
 13    <uses-permission android:name="android.permission.INTERNET" />
-13-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-65
-13-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-62
+13-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-65
+13-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-62
 14
 15    <uses-feature android:glEsVersion="0x00030000" />
-15-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-52
-15-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-49
+15-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-52
+15-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-49
 16    <uses-feature
-16-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-91
+16-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-91
 17        android:name="android.hardware.vulkan.version"
-17-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-63
+17-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-63
 18        android:required="false" />
-18-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:64-88
+18-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:64-88
 19    <uses-feature
-19-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-97
+19-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-97
 20        android:name="android.hardware.sensor.accelerometer"
-20-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-69
+20-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-69
 21        android:required="false" />
-21-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:70-94
+21-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:70-94
 22    <uses-feature
-22-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-88
+22-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-88
 23        android:name="android.hardware.touchscreen"
-23-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-60
+23-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-60
 24        android:required="false" />
-24-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:61-85
+24-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:61-85
 25    <uses-feature
-25-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-99
+25-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-99
 26        android:name="android.hardware.touchscreen.multitouch"
-26-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-71
+26-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-71
 27        android:required="false" />
-27-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:72-96
+27-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:72-96
 28    <uses-feature
-28-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:3-108
+28-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:3-108
 29        android:name="android.hardware.touchscreen.multitouch.distinct"
-29-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:17-80
+29-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:17-80
 30        android:required="false" />
-30-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:81-105
+30-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:81-105
 31    <uses-feature
-31-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:3-111
+31-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:3-111
 32        android:name="android.hardware.vr.headtracking"
-32-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:17-64
+32-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:17-64
 33        android:required="true"
-33-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:65-88
+33-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:65-88
 34        android:version="1" />
-34-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:89-108
+34-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:89-108
 35
 36    <application android:extractNativeLibs="true" >
-36-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:3-33:17
-36-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-48
+36-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:3-33:17
+36-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-48
 37        <meta-data
-37-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-69
+37-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-69
 38            android:name="unity.splash-mode"
-38-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-48
+38-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-48
 39            android:value="0" />
-39-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:49-66
+39-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:49-66
 40        <meta-data
-40-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-74
+40-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-74
 41            android:name="unity.splash-enable"
-41-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-50
+41-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-50
 42            android:value="True" />
-42-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:51-71
+42-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:51-71
 43        <meta-data
-43-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-78
+43-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-78
 44            android:name="unity.launch-fullscreen"
-44-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-54
+44-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-54
 45            android:value="True" />
-45-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:55-75
+45-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:55-75
 46        <meta-data
-46-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-84
+46-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-84
 47            android:name="unity.allow-resizable-window"
-47-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-59
+47-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-59
 48            android:value="False" />
-48-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:60-81
+48-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:60-81
 49        <meta-data
-49-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-81
+49-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-81
 50            android:name="notch.config"
-50-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-43
+50-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-43
 51            android:value="portrait|landscape" />
-51-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:44-78
+51-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:44-78
 52        <meta-data
-52-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-84
+52-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-84
 53            android:name="unity.auto-report-fully-drawn"
-53-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-60
+53-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-60
 54            android:value="true" />
-54-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:61-81
+54-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:61-81
 55
 56        <activity
-56-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-27:16
+56-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-27:16
 57            android:name="com.unity3d.player.UnityPlayerActivity"
-57-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:15-68
+57-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:15-68
 58            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|uiMode"
-58-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:204-305
+58-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:204-305
 59            android:exported="true"
-59-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:377-400
+59-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:377-400
 60            android:hardwareAccelerated="false"
-60-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:341-376
+60-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:341-376
 61            android:launchMode="singleTask"
-61-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:172-203
+61-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:172-203
 62            android:resizeableActivity="false"
-62-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:306-340
+62-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:306-340
 63            android:screenOrientation="landscape"
-63-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:134-171
+63-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:134-171
 64            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
-64-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:69-133
+64-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:69-133
 65            <intent-filter>
-65-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:7-23:23
+65-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:7-23:23
 66                <category android:name="android.intent.category.LAUNCHER" />
-66-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:9-69
-66-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:19-66
+66-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:9-69
+66-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:19-66
 67
 68                <action android:name="android.intent.action.MAIN" />
-68-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:9-61
-68-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:17-58
+68-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:9-61
+68-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:17-58
 69
 70                <category android:name="com.oculus.intent.category.VR" />
-70-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:9-66
-70-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:19-63
+70-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:9-66
+70-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:19-63
 71            </intent-filter>
 72
 73            <meta-data
-73-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:7-82
+73-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:7-82
 74                android:name="unityplayer.UnityActivity"
-74-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:18-58
+74-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:18-58
 75                android:value="true" />
-75-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:59-79
+75-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:59-79
 76            <meta-data
-76-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:7-70
+76-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:7-70
 77                android:name="notch_support"
-77-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:18-46
+77-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:18-46
 78                android:value="true" />
-78-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:47-67
+78-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:47-67
 79            <meta-data
-79-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:7-81
+79-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:7-81
 80                android:name="com.oculus.vr.focusaware"
-80-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:18-57
+80-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:18-57
 81                android:value="true" />
-81-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:58-78
+81-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:58-78
 82        </activity>
 83
 84        <meta-data
-84-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:5-97
+84-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:5-97
 85            android:name="com.samsung.android.vr.application.mode"
-85-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:16-70
+85-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:16-70
 86            android:value="vr_only" />
-86-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:71-94
+86-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:71-94
 87        <meta-data
-87-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:5-91
+87-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:5-91
 88            android:name="com.unity.xr.oculus.LowOverheadMode"
-88-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:16-66
+88-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:16-66
 89            android:value="false" />
-89-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:67-88
+89-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:67-88
 90        <meta-data
-90-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:5-88
+90-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:5-88
 91            android:name="com.unity.xr.oculus.LateLatching"
-91-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:16-63
+91-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:16-63
 92            android:value="false" />
-92-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:64-85
+92-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:64-85
 93        <meta-data
-93-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:5-93
+93-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:5-93
 94            android:name="com.unity.xr.oculus.LateLatchingDebug"
-94-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:16-68
+94-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:16-68
 95            android:value="false" />
-95-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:69-90
+95-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:69-90
 96        <meta-data
-96-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:5-84
+96-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:5-84
 97            android:name="com.oculus.supportedDevices"
-97-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:16-58
+97-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:16-58
 98            android:value="quest2" />
-98-->C:\Users\brand\Downloads\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:59-81
+98-->D:\Unity Projects\VR_IS_AWESOME\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:59-81
 99    </application>
 100
 101</manifest>
