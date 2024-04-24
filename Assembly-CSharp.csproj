@@ -66,6 +66,7 @@
     <Compile Include="Assets\BalloonController.cs" />
     <Compile Include="Assets\KeepUpright.cs" />
     <Compile Include="Assets\RandomPosition.cs" />
+    <Compile Include="Assets\GunScript.cs" />
     <Compile Include="Assets\Poppable.cs" />
     <Compile Include="Assets\KillTarget.cs" />
     <Compile Include="Assets\GlideLocomotion.cs" />

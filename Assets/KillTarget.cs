@@ -13,7 +13,7 @@ public class KillTarget : MonoBehaviour
     public int score;
     public TextMeshProUGUI scoreText;
 
-    Transform camera;
+    new Transform camera;
     private float countDown;
 
     void Start()

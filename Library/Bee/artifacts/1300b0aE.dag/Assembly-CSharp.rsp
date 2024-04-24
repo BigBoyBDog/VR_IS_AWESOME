@@ -394,6 +394,7 @@
 "Assets/CursorPositioner.cs"
 "Assets/ForceToggle.cs"
 "Assets/GlideLocomotion.cs"
+"Assets/GunScript.cs"
 "Assets/HideAfterDelay.cs"
 "Assets/KeepUpright.cs"
 "Assets/KillTarget.cs"
